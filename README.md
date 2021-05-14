@@ -25,6 +25,8 @@ The main specifications of the application are:
 - Create the project for the client application.
 - A client will read commands from the keyboard and it will send them to the server. The client stops when it reads from the keyboard the string "exit".
 
+I have solved everything in compulsory.
+
 ## Optional
 - Create an object-oriented model for your application and implement the commands.
 
